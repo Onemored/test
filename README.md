@@ -1,7 +1,5 @@
-# Hello, world!
+# 3 items about me
 
-I study in Netology
-
-30.11.2024
-
-## New Title
+- I love Git
+- I like Netology
+- I like Cat
